@@ -12,7 +12,7 @@ Run the server
 ```
 docker-compose up --build
 ```
-*(The server will be available on port 9292 of the localhost)*
+*(The server will be available on port 8008 of the localhost)*
 
 Stop the server
 ```
